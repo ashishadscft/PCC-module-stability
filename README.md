@@ -1,5 +1,5 @@
 # PCC-module-stability
-There are two ls.dat files, new and old ls files consisting of run number, lumi section and pixel cluster count data
+There are two ls.dat files, new and old ls.dat files consisting of run number, lumi section and pixel cluster count data
 
 We need to divide new pixel cluster count (third column in ls_new.dat) by old pixel cluster count (third column in ls_old.dat)
 
