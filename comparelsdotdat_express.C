@@ -141,7 +141,7 @@ void comparelsdotdat_express() {
   }
   h->Draw("histp");
   
-  C.Print(Path+"/compare_lsdotdat_hist_Run2018A_newveto_ratio.root");
+  C.Print(Path+"/compare_lsdotdat_hist_Run2018A_newveto_ratio.png");
 
   //h1->Draw("histp");
   //C.Print(Path+"/compare_lsdotdat_hist_Run2018A_oldveto.png");
