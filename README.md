@@ -1,6 +1,8 @@
 # PCC-module-stability
 There are two ls.dat files, new and old veto files consisting of run number, lumi section and pixel cluster count data
 
+Before dividing, remove all points with count <=3*10^3 as shown in PCCperls_new_old_veto.png image
+
 We need to divide new pixel cluster count (third column in ls_new.dat) by old pixel cluster count (third column in ls_old.dat)
 
 While dividing, we need to make sure that we are dividing counts corresponding to same run number and lumi section in both the files.
