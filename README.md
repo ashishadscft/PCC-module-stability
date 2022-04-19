@@ -9,4 +9,4 @@ While dividing, we need to make sure that we are dividing counts corresponding t
 
 Don't divide if count in ls_old.dat file is equal to zero.
 
-Output of the ratio of counts using comparelsdotdat_express.C code is shown in compare_lsdotdat_hist_Run2018A_newveto_ratio.png image. But probably, in this graph, division is not done by considering same lumi section corresponding to same run number.
+Output of the division of counts using comparelsdotdat_express.C code is shown in compare_lsdotdat_hist_Run2018A_newveto_ratio.png image. But probably, in this graph, division is not done by considering same lumi section corresponding to same run number.
