@@ -7,4 +7,4 @@ While dividing, we need to make sure that we are dividing counts corresponding t
 
 Don't divide if count in ls_old.dat file is equal to zero.
 
-Output of comparelsdotdat_express.C code is shown in c1.png image
+Output of the ratio of counts using comparelsdotdat_express.C code is shown in c1.png image
